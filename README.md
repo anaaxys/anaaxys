@@ -1,5 +1,5 @@
-- 👋 Olá, meu nome é @anaaxys
-- 👀 Meu email de contato é ana.cavagnolli@escola.pr.gov.br
+- 👋 Olá, meu nome é **@anaaxys**
+- 👀 Meu email de contato é [email](ana.cavagnolli@escola.pr.gov.br)
 - 🌱 Eu estou interessada em aprender a programar novas linguagens.
 - 💞️ Eu estou aprendendendo a programar recentemente a linguagem de JavaScript e Scratch
 
